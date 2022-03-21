@@ -1,0 +1,33 @@
+
+@media screen and (max-width:768px){
+    .imagem1{
+        background-image: url(https://gentecomgente.files.wordpress.com/2014/02/significado-pequenas-coisas.jpg);
+        width: 275px;
+        height: 400px;
+        right: 10%;
+        background-repeat: no-repeat;
+        float: left;
+        
+    
+    }
+    
+    .imagem2{
+        background-image: url(https://gentecomgente.files.wordpress.com/2014/02/significado-pequenas-coisas.jpg);
+        width: 275px;
+        height: 400px;
+        right: 10%;
+        background-repeat: no-repeat;
+        position: absolute;
+        top:0;
+        right:0;
+    }
+    .imagem3{
+        background-image: url(https://gentecomgente.files.wordpress.com/2014/02/significado-pequenas-coisas.jpg);
+        width: 275px;
+        right: 10%;
+        height: 400px;
+        background-repeat: no-repeat;
+        top:30%
+       
+    }
+}
